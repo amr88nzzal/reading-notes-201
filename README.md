@@ -15,4 +15,4 @@
 
 No. |         Project         | MD Link             | Github Page
 --- | ------------------------| --------------------|-------------------------------
-1   |        Test1   | [Open]()| [Open]()
+1   |       clase 01          | [Open](https://github.com/amr88nzzal/reading-notes-201/blob/main/class-01.md)| [Open](https://amr88nzzal.github.io/reading-notes-201/class-01)

@@ -1,16 +1,13 @@
-# Amr Nazzal
+# Amr Nzzal
 
 ## Software Developer
-
 ### Email  : amr.nzzal@gmail.com
 ### Mobile &phone; : [+962789334963](tel:962789334963)
 ### LinkedIn: [Goto](https://www.linkedin.com/in/amr-nzzal/)
 ### Facebook: [Goto](https://www.facebook.com/amr.nzzal)
-.
 
 ![programmer](./pics/1.jpg)
 
-.
 
 
 No. |         Project         | MD Link             | Github Page
@@ -24,3 +21,4 @@ No. |         Project         | MD Link             | Github Page
 7   |       class 07          | [Open](https://github.com/amr88nzzal/reading-notes-201/blob/main/class-07.md)| [Open](https://amr88nzzal.github.io/reading-notes-201/class-07)
 8   |       class 08          | [Open](https://github.com/amr88nzzal/reading-notes-201/blob/main/class-08.md)| [Open](https://amr88nzzal.github.io/reading-notes-201/class-08)
 9   |       class 09          | [Open](https://github.com/amr88nzzal/reading-notes-201/blob/main/class-09.md)| [Open](https://amr88nzzal.github.io/reading-notes-201/class-09)
+10  |       class 10          | [Open](https://github.com/amr88nzzal/reading-notes-201/blob/main/class-10.md)| [Open](https://amr88nzzal.github.io/reading-notes-201/class-10)

@@ -25,3 +25,5 @@ No. |         Project         | MD Link             | Github Page
 11  |       class 11          | [Open](https://github.com/amr88nzzal/reading-notes-201/blob/main/class-11.md)| [Open](https://amr88nzzal.github.io/reading-notes-201/class-11)
 12  |       class 12          | [Open](https://github.com/amr88nzzal/reading-notes-201/blob/main/class-12.md)| [Open](https://amr88nzzal.github.io/reading-notes-201/class-12)
 13  |       class 13          | [Open](https://github.com/amr88nzzal/reading-notes-201/blob/main/class-13.md)| [Open](https://amr88nzzal.github.io/reading-notes-201/class-13)
+14  |       class 14a         | [Open](https://github.com/amr88nzzal/reading-notes-201/blob/main/class-14a.md)| [Open](https://amr88nzzal.github.io/reading-notes-201/class-14a)
+15  |       class 14b         | [Open](https://github.com/amr88nzzal/reading-notes-201/blob/main/class-14b.md)| [Open](https://amr88nzzal.github.io/reading-notes-201/class-14b)
